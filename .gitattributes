@@ -1,0 +1,4 @@
+data* filter=lfs diff=lfs merge=lfs -text
+model/* filter=lfs diff=lfs merge=lfs -text
+results/* filter=lfs diff=lfs merge=lfs -text
+data/* filter=lfs diff=lfs merge=lfs -text
