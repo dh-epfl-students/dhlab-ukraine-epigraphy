@@ -4,3 +4,4 @@ results/* filter=lfs diff=lfs merge=lfs -text
 data/* filter=lfs diff=lfs merge=lfs -text
 data/bert/* filter=lfs diff=lfs merge=lfs -text
 model/bert/* filter=lfs diff=lfs merge=lfs -text
+model/bert2 filter=lfs diff=lfs merge=lfs -text
